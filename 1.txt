@@ -1,0 +1,22 @@
+How did viewing a diff between two versions help you spot a bug?
+It helped by comparing the two files clearly.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It could help you compare the differences between two files clearly and more efficently than just having the first version only.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does? 
+Pros
+-Easier to see the differences between files
+-Easier to save when you want vs save when the computer wants you to save
+-More likley to see differences between files vs seeing a huge number at once.
+Cons
+-Less likley to save more often
+-Less likley to save in general
+-Probrably not as easy as having the program save for you automatically
+
+How can you use the commands git log and git diff to view the history of files?
+You can use the commands seperatly in order to get a better idea of how you have changed your files over time, lines added or removed etc..
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Virtual Reality
