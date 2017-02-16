@@ -14,3 +14,7 @@ of what you are already working on. They help by seperating the workload.
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help to trace back what commits may be unreachable as well as where your workload is currently at.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is one output. That is why it is respresented the way it is.
