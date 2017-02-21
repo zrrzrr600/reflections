@@ -18,3 +18,8 @@ The diagrams help to trace back what commits may be unreachable as well as where
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches together is one output. That is why it is respresented the way it is.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Doing merges manually gets rid of the extra output you may need to modify in orde to move forward in your project.
+Doing merges automatically adds extra output sometimes that may need to be resolved on order to move forward.
