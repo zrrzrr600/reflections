@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 You may want to pull changes manually in order to avoid becoming bogged down by git automatically updating i.e. git overwriting
 files and conflicts arising.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are the copies of github repos, this feature is exclusive to github, whereas clones are copies of a commit, and branches
+are the hierachy between the commits. 
+Forks you might use when you are trying to copy a feature someone else created, clones when you need a copy of a repo on
+your own computer, and branches when you are trying to try out new features or might want to expiriment on a project.
